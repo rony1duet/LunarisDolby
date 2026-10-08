@@ -1,0 +1,16 @@
+# Android / IntelliJ / AOSP
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+bin/
+gen/
+out/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+output.json
